@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Repo Code Assistant",
+  "description": "Read, inspect, edit, and sync code with your GitHub repositories directly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
